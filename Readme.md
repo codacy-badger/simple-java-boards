@@ -1,3 +1,7 @@
+[![Dependency Status](https://www.versioneye.com/user/projects/5a632c710fb24f0058078910/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5a632c710fb24f0058078910)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bfa0fee3430248b9bc07679a766ef409)](https://www.codacy.com/app/beljaeff/lunch-voting?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=beljaeff/lunch-voting&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/beljaeff/lunch-voting.svg?branch=master)](https://travis-ci.org/beljaeff/lunch-voting)
+
 # Simple Java Boards
 
 Simple forum engine written in Java.
